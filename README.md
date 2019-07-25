@@ -1,5 +1,5 @@
-#File chooser
+# FileChooser
 
-#Supported Platforms
+# Supported Platforms
 - iOS
 - Android
