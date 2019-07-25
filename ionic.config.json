@@ -1,0 +1,7 @@
+{
+  "name": "file-chooser",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
